@@ -1,0 +1,6 @@
+#gitignore file
+
+.idea
+.meteor/release
+.scrap
+smart.lock
