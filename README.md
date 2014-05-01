@@ -1,12 +1,17 @@
-**forms-kitchen-sink** is a Meteor app demonstrating form elements in Meteor.
+clinical-ui-forms
+========================
+
+Meteor app demonstrating form elements, controls, and other features.  
+
+
 
 
 ------------------------
 ### Installation
 
-````js
-git clone https://github.com/awatson1978/forms-kitchen-sink.git
-cd forms-kitchen-sink
+````md
+git clone https://github.com/awatson1978/clinical-ui-forms.git
+cd clinical-ui-forms
 sudo mrt
 ````
 
@@ -19,11 +24,4 @@ This applet demonstrates how to use <input> elements with a pure-Meteor CRUD pat
 ### Licensing
 
 MIT License. Use as you wish, including for commercial purposes.
-See license.mit.txt for full details.
 
-
-------------------------
-### Support
-Found this package to be useful?  Consider tipping the package maintainer for their time!  
-
-[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
